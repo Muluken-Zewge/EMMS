@@ -44,3 +44,18 @@ The application leverages Google's Firebase Firestore for authentication and dat
 - **Backend:** Firebase Firestore
 - **Authentication:** Firebase Authentication
 - **Real-Time Communication:** Firebase Firestore (for chat)
+
+## Screenshots
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/screenshots/EMMS1.png" alt="login screen" width="45%" />
+  <img src="assets/screenshots/EMMS7.png" alt="Client Dashboard" width="45%" />
+</div>
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/screenshots/EMMS8.png" alt="" width="45%" />
+  <img src="assets/screenshots/EMMS2.png" alt="Client Dashboard" width="45%" />
+</div>
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/screenshots/EMMS11.png" alt="login screen" width="45%" />
+  <img src="assets/screenshots/EMMS12.png" alt="Client Dashboard" width="45%" />
+</div>
