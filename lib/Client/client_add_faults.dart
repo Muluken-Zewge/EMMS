@@ -45,8 +45,6 @@ class _ClientAddFaultScreenState extends State<ClientAddFaultScreen> {
             ),
             const SizedBox(height: 5.0),
             MultiSelectDropDown(
-              showClearIcon: true,
-
               // controller: _controller,
               onOptionSelected: (options) {
                 setState(() {
